@@ -25,7 +25,7 @@ int matrix_b[10][10];
 int matrix_c[10][10];
 
 int main(int argc, char *argv[]) {
-printf("Multi-threaded Matrix Multiplication - AC0350 - Prof. Eckert\n\n");
+printf("Multi-threaded Matrix Multiplication - AC0350 - Kevin Nguyen\n\n");
    FILE *f = NULL;
    int row_a, col_a;
    int row_b, col_b;
